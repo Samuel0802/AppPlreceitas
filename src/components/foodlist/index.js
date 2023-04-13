@@ -7,12 +7,16 @@ import {
         Image 
     } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
+import { useNavigation } from "@react-navigation/native";
 
 export function FoodList({data}){
+  const navigation = useNavigation();
+
 
     function handleNavigate(){
-        console.log("CLICOU");
+        navigation.navigate("Detail", {data: data}) 
     } 
+
     return(
         <TouchableOpacity activeOpacity={0.8} style={styles.container} onPress={handleNavigate}> 
         <Image 

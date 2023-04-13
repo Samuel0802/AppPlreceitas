@@ -63,6 +63,7 @@ export default function Home() {
                   data={foods}
                   keyExtractor={(item) => String(item.id)}
                   renderItem={({item}) => <FoodList data={item}/> }
+                  showsVerticalScrollIndicator={false}
                  />
         </SafeAreaView>
         </TouchableWithoutFeedback>
@@ -105,6 +106,10 @@ const styles = StyleSheet.create({
     input:{
         width: '90%',
         height: 54,
-        maxWidth: '90%'
+        maxWidth: '90%',
+        fontSize: 20,
+        fontWeight: 'bold',
+        color: '#ff7875',
+
     }
 })
