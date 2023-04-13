@@ -52,6 +52,7 @@ export default function Home() {
                 style={styles.input}
                 value={inputValue}
                 onChangeText={(text) => setInputValue(text)}
+                onSubmitEditing={Keyboard.dismiss}
                 />
 
                 <TouchableOpacity onPress={handleSearch}>
