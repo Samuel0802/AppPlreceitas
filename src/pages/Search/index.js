@@ -1,5 +1,6 @@
-import React from "react";
-import { View, Text, StyleSheet } from "react-native";
+import React, {useState, useEffect} from "react";
+import { View, Text, StyleSheet, FlatList } from "react-native";
+import {useRoute} from '@react-navigation/native';
 
 
 export default function Search(){

@@ -13,6 +13,7 @@ import { Logo } from "../../components/logo";
 import { Ionicons } from '@expo/vector-icons';
 import api from "../../services/api";
 import {FoodList} from "../../components/foodlist"
+import {useNavigation} from '@react-navigation/native'
 
 
 
@@ -20,7 +21,9 @@ export default function Home() {
 
       // useState da lupa de pesquisa
      const [inputValue, setInputValue] = useState("");
-     const [foods, setFoods] = useState([])
+     const [foods, setFoods] = useState([]);
+
+     const navigation = useNavigation();
 
      useEffect(() => {
      async function fetchApi(){
@@ -32,8 +35,12 @@ export default function Home() {
      }, [])
      
      function handleSearch(){
-        console.log("VOCÊ DIGITOU..");
-        console.log(inputValue);
+        if(!inputValue)return;
+        let input = inputValue;
+
+         setInputValue("")
+        navigation.navigate("Search", {name: input})
+
      }
 //
 
