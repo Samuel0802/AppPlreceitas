@@ -1,11 +1,30 @@
 import React from "react";
-import { View, StyleSheet, Text } from "react-native";
+import {View, StyleSheet, Text } from "react-native";
+import {Text as MoviText} from 'moti';
+
 
 
 export function Logo(){
     return(
-        <View  style={styles.logoArea}>
-            <Text style={styles.logo}>PL RECEITAS</Text>
+        <View  
+        style={styles.logoArea}
+        from={{
+            opacity: 0,
+            translateX: -50,
+          }}
+          animate={{
+            opacity: 1,
+            translateY: 0
+          }}
+
+          transition={{
+            delay: 200,
+            type: 'timing',
+            duration: 850
+          }}
+        >
+            <MoviText style={styles.logo}
+            >PL RECEITAS</MoviText>
         </View>
     );
 }

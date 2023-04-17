@@ -14,6 +14,7 @@ import { Ionicons } from '@expo/vector-icons';
 import api from "../../services/api";
 import {FoodList} from "../../components/foodlist"
 import {useNavigation} from '@react-navigation/native'
+import {Text as MoviText} from 'moti';
 
 
 
@@ -49,8 +50,39 @@ export default function Home() {
         <TouchableWithoutFeedback onPress={Keyboard.dismiss}> 
         <SafeAreaView style={styles.container}>
             <Logo />
-            <Text style={styles.title}>Bem-vindo(a) a PL Receitas</Text>
-            <Text style={styles.subtitle}>Veja as receitas que separei pra você!</Text>
+            <MoviText
+              style={styles.title}
+              from={{
+                opacity: 0,
+                translateY: 15,
+              }}
+              animate={{
+                opacity: 1,
+                translateY: 0
+              }}
+
+              transition={{
+                delay: 100,
+                type: 'timing',
+                duration: 650
+              }}
+              >Bem-vindo(a) a PL Receitas</MoviText>
+            <MoviText style={styles.subtitle}
+               from={{
+                opacity: 0,
+                translateY: 15,
+              }}
+              animate={{
+                opacity: 1,
+                translateY: 0
+              }}
+
+              transition={{
+                delay: 300,
+                type: 'timing',
+                duration: 850
+              }}
+            >Veja as receitas que separei pra você!</MoviText>
 
             <View style={styles.form}>
 
