@@ -35,3 +35,11 @@ estudo sobre a estrutura de aplicativos de alimentação vegetariana / vegana co
 ![image](https://user-images.githubusercontent.com/82341101/233800422-04aad600-0288-4fc9-b588-f2d1a2091115.png)
 
 
+
+
+**DEMOSTRAÇÃO DO APP**
+
+
+https://user-images.githubusercontent.com/82341101/233800458-0c9efe93-9e8c-4066-b482-23cf1074602c.mp4
+
+
