@@ -3,7 +3,7 @@ import {View, StyleSheet, Text } from "react-native";
 import {Text as MoviText} from 'moti';
 
 
-
+// LOGO NO CANTO ESQUERDO DO APP LOCALIZA BAR
 export function Logo(){
     return(
         <View  
@@ -24,7 +24,7 @@ export function Logo(){
           }}
         >
             <MoviText style={styles.logo}
-            >PL RECEITAS</MoviText>
+            >LOCALIZA BAR</MoviText>
         </View>
     );
 }
@@ -32,7 +32,7 @@ export function Logo(){
 const styles = StyleSheet.create({
 
     logoArea:{
-        backgroundColor: '#ff7875',
+        backgroundColor: '#41AF64',
         alignSelf: "flex-start",
         padding: 8,
         paddingLeft: 16,

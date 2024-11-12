@@ -66,7 +66,7 @@ export default function Home() {
                 type: 'timing',
                 duration: 650
               }}
-              >Bem-vindo(a) a PL Receitas</MoviText>
+              >Bem-vindo(a) Localiza Bar</MoviText>
             <MoviText style={styles.subtitle}
                from={{
                 opacity: 0,
@@ -82,12 +82,13 @@ export default function Home() {
                 type: 'timing',
                 duration: 850
               }}
-            >Veja as receitas que separei pra você!</MoviText>
+            >Veja os melhores Bares Manaus que separei pra você!</MoviText>
 
             <View style={styles.form}>
 
+          
                 <TextInput 
-                placeholder="Digite nome da receita..." 
+                placeholder="Digite nome do bar..." 
                 style={styles.input}
                 value={inputValue}
                 onChangeText={(text) => setInputValue(text)}
@@ -95,7 +96,7 @@ export default function Home() {
                 />
 
                 <TouchableOpacity onPress={handleSearch}>
-                    <Ionicons name="search" size={28} color="#ff7875" />
+                    <Ionicons name="search" size={28} color="#000000" />
                 </TouchableOpacity>
             </View> 
 
@@ -149,7 +150,7 @@ const styles = StyleSheet.create({
         maxWidth: '90%',
         fontSize: 20,
         fontWeight: 'bold',
-        color: '#ff7875',
+        color: '#000000',
 
     }
 })

@@ -82,11 +82,11 @@ export default function Detail() {
             <View style={styles.Headerdetails}>
                 <View>
                     <Text style={styles.title}>{route.params?.data.name}</Text>
-                    <Text style={styles.ingredientesText}>ingredientes ({route.params?.data.total_ingredients})</Text>
+                    <Text style={styles.ingredientesText}> ({route.params?.data.total_ingredients})</Text>
                 </View>
 
                 <Pressable onPress={ShareReceipe}>
-                    <Feather name="share-2" size={24} color="#ff7875" />
+                    <Feather name="share-2" size={24} color="#000000" />
                 </Pressable>
             </View>
 
@@ -95,7 +95,7 @@ export default function Detail() {
             ))}
 
             <View style={styles.InstructionsArea}>
-                <Text style={styles.InstructionsText}>Modo de Preparo</Text>
+                <Text style={styles.InstructionsText}>Informação Detalhada</Text>
                 <Feather name="arrow-down" size={24} color="#FFF" />
             </View>
 
@@ -158,7 +158,7 @@ const styles = StyleSheet.create({
     },
 
     InstructionsArea: {
-        backgroundColor: "#ff7875",
+        backgroundColor: "#41AF64",
         flexDirection: 'row',
         padding: 8,
         borderRadius: 5,

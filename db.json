@@ -2,66 +2,66 @@
   "foods": [
     { 
       "id": "1",
-      "name":  "Strogonoff",
-      "total_ingredients": "4",
+      "name":  "Porão do Alemão", 
+      "total_ingredients": "Av. São Jorge, 1986, São Jorge.",
       "time": 40,
-      "cover": "https://i.imgur.com/or7Phgi.jpeg",
-      "video":"https://www.youtube.com/watch?v=y9yKuT1m9LI",
+      "cover": "https://www.folhabv.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1599&height=1066&format=.jpeg&quality=91&imagick=uploads.folhabv.com.br/2023/12/WhatsApp-Image-2023-12-01-at-11.35.16.jpeg",
+      "video":"https://www.youtube.com/watch?v=NB2wR42fC_Q",
       "ingredients": [
         {
           "id": "1",
-          "name": "Carne Patinho",
-          "amount": "400g"
+          "name": "Horário de Funcionamento",
+          "amount": "Quart a Sab - 19h"
         },
         {
           "id": "2",
-          "name": "Arroz branco",
-          "amount": "2 xícaras"
+          "name": "Modo de Pagamento",
+          "amount": "Crédito, Débito, Pix"
         },
         {
           "id": "3",
-          "name": "Molho de tomate",
-          "amount": "1 pacote 150g"
+          "name": "Bandas ao vivo",
+          "amount": "Sim!"
         },
         {
           "id": "4",
-          "name": "Creme de leite",
-          "amount": "1 caixa"
+          "name": "Proibido Menores",
+          "amount": "18 anos"
         }
       ],
       "instructions": [
         {
           "id": "1",
-          "text": "Em uma panela, misture a carne, o alho, a maionese, o sal e a pimenta."
+          "text": "Clima Descontraído: O bar oferece um ambiente acolhedor e descontraído, ideal para quem quer curtir uma noite de boa música com os amigos em Manaus."
         },
         {
           "id": "2",
-          "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
+          "text": "Cardápio: O Porão do Alemão serve uma variedade de pratos e petiscos, além de um cardápio de bebidas com opções para todos os gostos, desde cervejas artesanais até coquetéis."
         },
         {
           "id": "3",
-          "text": "Junte o frango temperado até que esteja dourado."
+          "text": "Local de Encontro para Fãs de Rock: Frequentado por fãs de todas as vertentes do rock, o bar é o ponto de encontro perfeito para quem ama a música e a cultura rock."
         },
         {
           "id": "4",
-          "text": "Adicione os cogumelos, o ketchup e a mostarda."
+          "text": "Eventos Regulares: Além de shows e festas, o bar realiza eventos regulares como concursos de bandas, noites de karaokê e tributos a grandes artistas do rock."
         },
         {
           "id": "5",
-          "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
+          "text": "Shows ao Vivo: O Porão do Alemão frequentemente recebe apresentações de bandas locais e nacionais, sendo um local essencial para quem gosta de música ao vivo."
         },
         {
           "id": "6",
-          "text": "Sirva com arroz branco e batata palha."
+          "text": "Festas Privadas: O bar também é um local popular para festas privadas, como aniversários e eventos corporativos, com pacotes de serviços personalizados."
         }
       ]
     },
     { 
       "id": "2",
-      "name": "Strogonoff Frango",
+      "name": "All Night Pub",
       "total_ingredients": "5",
       "time": 60,
-      "cover": "https://i.imgur.com/ITYi8kH.png",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0f/08/3d/00/vista-do-palco-principal.jpg",
       "video":"https://www.youtube.com/watch?v=y9yKuT1m9LI",
       "ingredients": [
         {
@@ -93,42 +93,42 @@
       "instructions": [
         {
           "id": "1",
-          "text": "Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta."
+          "text": "Música ao Vivo: O pub frequentemente recebe apresentações de bandas locais e artistas, proporcionando uma experiência musical diversificada, com foco em rock e música alternativa."
         },
         {
           "id": "2",
-          "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
+          "text": "Cervejas Artesanais: O All Night Pub oferece uma seleção de cervejas artesanais, além das tradicionais, atendendo a todos os gostos dos seus clientes."
         },
         {
           "id": "3",
-          "text": "Junte o frango temperado até que esteja dourado."
+          "text": "Cardápio Variado: O menu do pub inclui petiscos saborosos e pratos que combinam perfeitamente com bebidas, como hambúrgueres, batatas fritas e opções vegetarianas."
         },
         {
           "id": "4",
-          "text": "Adicione os cogumelos, o ketchup."
+          "text": "Happy Hour: O pub realiza promoções de happy hour, oferecendo descontos em bebidas e petiscos durante horários específicos, ideal para quem quer aproveitar mais por menos"
         },
         {
           "id": "5",
-          "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
+          "text": "Decoração: A decoração do All Night Pub é cuidadosamente escolhida para criar um ambiente único, com toques modernos e vintage, refletindo a cultura do pub e da música."
         },
         {
           "id": "6",
-          "text": "Sirva com arroz branco e batata palha."
+          "text": "Localização: Situado em uma área central, o pub é de fácil acesso para quem deseja um ponto de encontro vibrante no coração da cidade."
         }
       ]
     },
     { 
       "id": "3",
-      "name":  "Pizza calabresa",
-      "total_ingredients": "6",
+      "name":  "Salomé bar",
+      "total_ingredients": "Rua Amapá, 5 - Vieiralves",
       "time": 120,
-      "cover": "https://i.imgur.com/MRaJXNH.jpg",
+      "cover": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/13/96/a6/o-salome-grill-e-sua.jpg?w=900&h=-1&s=1",
       "video":"https://youtu.be/AexaqeVdkF0",
       "ingredients": [
         {
           "id": "1",
-          "name": "Massa de pizza",
-          "amount": "1"
+          "name": "Horário de Funcionamento",
+          "amount": "Ter à Sex 17h | Sáb 12h | Dom 15h"
         },
         {
           "id": "2",
@@ -159,36 +159,36 @@
       "instructions": [
         {
           "id": "1",
-          "text": "Passe o molho de toma em cima da massa com uma colher."
+          "text": "Ambiente Aconchegante: O Salomé Bar oferece um ambiente descontraído, ideal para uma noite relaxante com amigos, destacando-se pela decoração e atmosfera acolhedora."
         },
         {
           "id": "2",
-          "text": "Coloque o queijo sobre toda massa."
+          "text": "Música Diversificada: O bar toca uma variedade de estilos musicais, incluindo rock, pop, MPB e música eletrônica, com DJs locais e shows ao vivo."
         },
         {
           "id": "3",
-          "text": "Adicione a calabesa sobre o queijo."
+          "text": "Drinks Exclusivos: O Salomé Bar é famoso pelos seus coquetéis exclusivos, feitos por bartenders experientes, com drinks criativos e receitas autorais."
         },
         {
           "id": "4",
-          "text": "Coloque as cebolas cortadas em rodelas sobre a pizza."
+          "text": "Eventos Especiais: O Salomé Bar organiza noites temáticas, festas privadas e eventos especiais para datas comemorativas, como Halloween, Carnaval e Ano Novo."
         },
         {
           "id": "5",
-          "text": "Adicione orégano (à gosto)."
+          "text": "Espaço para Shows e Performances: O bar é conhecido por abrigar apresentações de artistas locais e nacionais, criando uma conexão entre o público e a cena musical emergente."
         },
         {
           "id": "6",
-          "text": "Leve ao forno quente em torno de 15 a 20 minutos."
+          "text": "Cultura e Arte Local: O Salomé Bar se destaca por apoiar a cena cultural e artística local, promovendo exposições de arte e colaborações com artistas regionais."
         }
       ]
     },
     { 
       "id": "4",
-      "name":  "Massa de Pastel",
+      "name":  "O Condado",
       "total_ingredients": "6",
       "time": 30,
-      "cover": "https://i.imgur.com/HUEssUh.jpg",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTBacbBEjb8kanuf6Xmt6bQXWCIX5bBPe2A&s",
       "video":"https://www.youtube.com/watch?v=y9yKuT1m9LI",
       "ingredients": [
         {
@@ -225,36 +225,36 @@
       "instructions": [
         {
           "id": "1",
-          "text": "Misture os ingredientes em uma tigela e amasse com as mãos."
+          "text": "Variedade de Bebidas: O bar oferece uma grande seleção de drinks, desde os mais tradicionais até opções criativas, com coquetéis autorais que misturam sabores inusitados."
         },
         {
           "id": "2",
-          "text": "Sove bem a massa sobre uma superfície lisa enfarinhada."
+          "text": "Noites Temáticas: O bar organiza eventos e noites temáticas, como festas de fantasia, noites de karaokê e eventos culturais, sempre criando um clima de diversão e interação"
         },
         {
           "id": "3",
-          "text": "Utilize um rolo para esticar a massa e deixá-la na espessura desejada."
+          "text": "Espaço Aconchegante e Social: O bar é ideal para grupos de amigos, casais e até para encontros familiares. Seu ambiente é acolhedor e ideal para socializar"
         },
         {
           "id": "4",
-          "text": "Corte a massa no tamanho que quiser fazer os pastéis."
+          "text": "Música ao Vivo: O Condado Bar oferece música ao vivo, com bandas locais tocando diversos estilos, incluindo rock, pop, MPB e outros, criando um ambiente animado e alegre."
         },
         {
           "id": "5",
-          "text": "Recheie de acordo com a sua preferência."
+          "text": "Apoio à Cultura Local: O Condado Bar é conhecido por apoiar a cena cultural de Manaus, promovendo eventos que envolvem a comunidade local e incentivam a expressão artística."
         },
         {
           "id": "6",
-          "text": "Frite em óleo bem quente."
+          "text": "Decoração Imersiva: A decoração do bar inclui elementos que remetem à fantasia medieval e à cultura pop, o que cria um ambiente imersivo que atrai tanto fãs de fantasia quanto aqueles que buscam algo diferente."
         }
       ]
     },
     { 
       "id": "5",
-      "name":  "Pudim de leite condensado",
+      "name":  "Sindicato",
       "total_ingredients": "5",
       "time": 65,
-      "cover": "https://i.imgur.com/24tEgVo.jpg",
+      "cover": "https://www.portalholofote.com/images/noticias/5693/1183533110.jpg",
       "video":"https://youtu.be/0MJep0plDlw",
       "ingredients": [
         {
@@ -286,40 +286,40 @@
       "instructions": [
         {
           "id": "1",
-          "text": "Primeiro, bata bem os ovos no liquidificador."
+          "text": "Variedade de Bebidas: O bar oferece uma ampla carta de bebidas, desde cervejas geladas a coquetéis autorais, com opções que agradam a diferentes gostos e paladares."
         },
         {
           "id": "2",
-          "text": "Acrescente o leite condensado e o leite, e bata novamente."
+          "text": "Cardápio de Petiscos e Pratos: No cardápio, o Sindicato Bar conta com petiscos saborosos, como porções de fritas, nachos, e carnes grelhadas, além de opções para quem deseja refeições mais completas."
         },
         {
           "id": "3",
-          "text": "Derreta o açúcar na panela até ficar moreno, acrescente a água e deixe engrossar."
+          "text": "Música ao Vivo: O Sindicato Bar tem noites de música ao vivo, com bandas locais tocando diversos estilos, como rock, reggae, pop e MPB, garantindo uma noite animada para os clientes."
         },
         {
           "id": "4",
-          "text": "Coloque em uma forma redonda e despeje a massa do pudim por cima."
+          "text": "Espaço para Eventos: O bar disponibiliza seu espaço para eventos privados, como festas de aniversário e encontros corporativos, sendo uma opção versátil para diversas ocasiões."
         },
         {
           "id": "5",
-          "text": "Asse em forno médio por 45 minutos, com a assadeira redonda dentro de uma maior com água."
+          "text": "Atendimento de Qualidade: O Sindicato Bar é reconhecido pelo bom atendimento, com uma equipe simpática e pronta para proporcionar uma experiência agradável para todos os clientes."
         },
         {
           "id": "6",
-          "text": "Espete um garfo para ver se está bem assado."
+          "text": "Ambiente Social: O bar tem um ambiente ideal para grupos de amigos, casais ou até mesmo para quem deseja fazer novas amizades, proporcionando um clima social e descontraído."
         },
         {
           "id": "7",
-          "text": "Deixe esfriar e desenforme."
+          "text": "Eventos Temáticos: O Sindicato Bar realiza eventos temáticos, festas especiais e celebrações para datas comemorativas, como o Carnaval e o Réveillon, oferecendo uma programação divertida e diferente."
         }
       ]
     },
     { 
       "id": "6",
-      "name":  "Pizza frango com catupiry",
+      "name":  "Old 88 Garage",
       "total_ingredients": "5",
       "time": 60,
-      "cover": "https://i.imgur.com/Tox2VkT.jpg",
+      "cover": "https://img.restaurantguru.com/r232-photo-Old-88-Garage-e-Don-Loiola-Meat-Moto-Bar-2021-09-230015.jpg",
       "video":"https://youtu.be/EPD2igRTnfw",
       "ingredients": [
         {
@@ -351,23 +351,27 @@
       "instructions": [
         {
           "id": "1",
-          "text": "Cozinhe o Filé de peito DaGranja Seara em uma panela com água e sal. Quando estiver pronto, retire, desfie e tempere com sal, pimenta e salsinha."
+          "text": "Música ao Vivo: Famoso por sua programação de música ao vivo, o bar recebe bandas de rock e outros gêneros musicais, sendo um ponto de encontro para os fãs desse estilo."
         },
         {
           "id": "2",
-          "text": "Espalhe o molho de tomate na massa de pizza cobrindo todo o disco."
+          "text": "Cervejas e Drinks Especiais: O bar oferece uma vasta seleção de cervejas, com ênfase em artesanais, além de drinks exclusivos e clássicos, que atendem todos os gostos dos frequentadores."
         },
         {
           "id": "3",
-          "text": "Espalhe o frango desfiado pela pizza."
+          "text": "Ambiente Social e Descontraído: Ideal para grupos de amigos e pessoas que buscam um lugar descontraído para conversar, ouvir música e aproveitar boa comida e bebida."
         },
         {
           "id": "4",
-          "text": "Coloque o catupiry em um saco de confeiteiro ou um saco plástico com furo na ponta e espalhe o queijo pela pizza. Você pode distribuir em espiral ou em linhas horizontais e verticais."
+          "text": "Cardápio de Petiscos: No Old 88 Garage, os petiscos são um destaque, com opções deliciosas como fritas, porções de linguiça e outros pratos rápidos para acompanhar a bebida."
         },
         {
           "id": "5",
-          "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
+          "text": "Frequência de Motociclistas: Por sua temática e ambiente, o bar atrai muitos motociclistas, sendo um ponto de encontro para a galera que compartilha dessa paixão."
+        },
+        {
+          "id": "6",
+          "text": "Localização Estratégica: O Old 88 Garage está localizado em uma área central de Manaus, o que facilita o acesso para quem quer curtir uma boa noite de lazer e música."
         }
       ]
     }

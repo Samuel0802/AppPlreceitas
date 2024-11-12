@@ -34,9 +34,9 @@ export default function Favorites(){
 
     return(
         <SafeAreaView style={styles.container}>
-            <Text style={styles.title}>Receitas Favoritas</Text>
+            <Text style={styles.title}>Bares Favoritos</Text>
             {receipes.length === 0 && (
-                <Text>Você ainda não receita salva.</Text>
+                <Text>Você ainda não tem bares salvo.</Text>
             )}
 
             <FlatList 

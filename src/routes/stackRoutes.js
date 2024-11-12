@@ -4,6 +4,7 @@ import Home from  '../pages/home';
 import Detail from '../pages/Detail';
 import Search from '../pages/Search';
 
+
 const Stack = createNativeStackNavigator();
 
 

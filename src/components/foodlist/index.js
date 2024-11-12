@@ -25,7 +25,7 @@ export function FoodList({data}){
 
           <View style={styles.info}>
               <Text style={styles.name}>{data.name}</Text>
-              <Text style={styles.description}>{data.total_ingredients} Ingredientes | {data.time} min</Text>
+              <Text style={styles.description}>{data.total_ingredients}{data.time}</Text>
           </View>
            <LinearGradient 
             style={styles.gradient}
